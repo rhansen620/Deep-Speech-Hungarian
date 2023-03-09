@@ -1,2 +1,2 @@
 # SpeechTechUA
-Project for Speech Tech assignments
+Deep Speech ASR for Hungarian - final project for a class
